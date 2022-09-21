@@ -1,0 +1,26 @@
+
+const jsonobj {
+
+
+
+    {
+  "name": "jeyekrishnan S",
+  "age": 24,
+  "dob": "1999-05-31",
+  "bio": {
+    "height": 165,
+    "weight": 75
+  },
+  "skills": ["JS", "Python"],
+  "projects": [
+    {
+      "name": "RC Toy Car",
+      "langs": ["Python", "ARM"]
+    },
+    {
+      "name": "DIP",
+      "langs": ["Python"]
+    }
+  ]
+}
+}
